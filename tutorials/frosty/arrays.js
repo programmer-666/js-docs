@@ -19,3 +19,15 @@ unshift(): Array'in başına yeni elemanlar ekler.
 
 array.pop();
 console.log(array);
+console.log(array.push("test"));
+console.log(array.length, array);
+
+array.shift();
+
+console.log(array);
+console.log(array.shift());
+
+console.log(array);
+array.unshift("lemon"); // adds a new element to arrays begining
+
+console.log(array);
