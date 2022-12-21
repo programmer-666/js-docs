@@ -114,3 +114,9 @@ console.log(nums);
 nums.shift(); // like pop method, difference is this method removes first index
 console.log(nums);
 //unshift adds new value to arrrays first index
+
+console.log(random_array.toString());
+console.log(random_array.join("9 "));
+// converts "," to given parameter
+
+console.log(random_array.pop());
