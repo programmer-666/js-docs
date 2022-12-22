@@ -1,5 +1,6 @@
 {
   "name": "frosty",
+  "type": "module",
   "version": "1.0.0",
   "description": "js tutorial package",
   "main": "main.js",
